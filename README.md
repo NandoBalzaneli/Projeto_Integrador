@@ -1,2 +1,2 @@
 # Projeto_Integrador
-Projeto integrador Chacon
+Projeto Integrador Nando Balzaneli, Gabriel Pinheiro, Eduardo Sanvido, Matheus Polizinani
